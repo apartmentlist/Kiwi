@@ -11,7 +11,7 @@ describe(@"___VARIABLE_cutClass:identifier___", ^{
     });
     
     describe(@"_REPLACE_ME_", ^{
-        it(@"_REPLACE_ME_, ^{
+        it(@"_REPLACE_ME_", ^{
         });
     });
 });
